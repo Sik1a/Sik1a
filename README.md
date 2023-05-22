@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Sofrecom Tunisie**
 
-- 💬 Ask me about **Linux , JAVA , POSTGRESQL , DOCKER , MONITORING**
+- 💬 Ask me about **Linux , BACKEND DEVELOPMENT ,JAVA , DATABASES , DEVOPS , DOCKER  **
 
 - 📫 How to reach me **bilelzr8@gmail.com**
 
