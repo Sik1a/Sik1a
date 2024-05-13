@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bilel Zraier</h1>
 <h3 align="center">Passionate and dedicated professional with a strong inclination towards backend development and DevOps</h3>
 
-- 🔭 I’m currently working at **Sofrecom Tunisie**
-
+- 🔭 I’m currently working at **Rhis Soltuion** After beautiful 15 months at **Sofrecom tunisie**
+ 
 - 💬 Ask me about **Linux , BACKEND DEVELOPMENT ,JAVA , DATABASES , DEVOPS , DOCKER  **
 
 - 📫 How to reach me **bilelzr8@gmail.com**
